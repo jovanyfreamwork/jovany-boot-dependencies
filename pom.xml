@@ -40,7 +40,6 @@
 	</dependencyManagement>
 
 	<modules>
-		<module>jovany-saas</module>
 		<module>jovany-cloud</module>
 	</modules>
 </project>

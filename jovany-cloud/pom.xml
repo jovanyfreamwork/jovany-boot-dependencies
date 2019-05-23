@@ -27,4 +27,8 @@
 		</dependencies>
 	</dependencyManagement>
 
+	<modules>
+		<module>jovany-saas</module>
+	</modules>
+
 </project>
