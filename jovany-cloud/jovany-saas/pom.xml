@@ -29,6 +29,11 @@
 				<artifactId>jovany-saas-client-resource</artifactId>
 				<version>1.0.0</version>
 			</dependency>
+			<dependency>
+				<groupId>jovany-saas</groupId>
+				<artifactId>jovany-saas-resource</artifactId>
+				<version>1.0.0</version>
+			</dependency>
 		</dependencies>
 	</dependencyManagement>
 
@@ -36,6 +41,8 @@
 		<module>jovany-saas-starter</module>
 		<module>jovany-saas-client-starter</module>
 		<module>jovany-saas-client-resource</module>
+		<module>jovany-saas-starter-sdk</module>
+		<module>jovany-saas-resource</module>
 	</modules>
 
 </project>

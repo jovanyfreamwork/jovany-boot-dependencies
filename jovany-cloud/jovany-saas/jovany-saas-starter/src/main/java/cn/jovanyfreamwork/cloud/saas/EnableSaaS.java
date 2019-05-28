@@ -9,7 +9,6 @@ import java.lang.annotation.Target;
 
 import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.boot.autoconfigure.ImportAutoConfiguration;
-import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
@@ -24,7 +23,6 @@ import cn.jovanyfreamwork.cloud.saas.oauth2.RestMvcConfiguration;
 @Documented
 @Inherited
 @SpringBootConfiguration
-@EntityScan(basePackages = "cn.jovanyfreamwork.cloud.saas")
 @ComponentScan(basePackages = "cn.jovanyfreamwork.cloud.saas")
 @EnableJpaRepositories(basePackages = { "cn.jovanyfreamwork.cloud.saas" })
 @ImportAutoConfiguration(classes = { 
