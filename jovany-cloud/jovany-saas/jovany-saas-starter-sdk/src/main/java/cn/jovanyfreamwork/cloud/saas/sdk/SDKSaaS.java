@@ -8,17 +8,18 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
-import org.springframework.cloud.openfeign.EnableFeignClients;
+import org.springframework.cloud.netflix.ribbon.RibbonClient;
+import org.springframework.hateoas.config.EnableHypermediaSupport;
 
-import cn.jovanyfreamwork.cloud.saas.resource.ResourceSaaS;
+import cn.jovanyfreamwork.cloud.saas.ResourceSaaS;
 
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
 @Documented
 @Inherited
 @EnableDiscoveryClient
-@EnableFeignClients(basePackages="com.learnyeai.demo.sdk.saas.client")
+@EnableHypermediaSupport(type = EnableHypermediaSupport.HypermediaType.HAL)
 @ResourceSaaS
+@RibbonClient(name = "learnyeaidemo-saas")
 public @interface SDKSaaS {
-
 }

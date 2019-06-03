@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Implementation-Title: jovany-saas-starter-sdk
 Implementation-Version: 1.0.0
 Built-By: wangqi
-Implementation-Vendor-Id: jovany-saas-starter-sdk
+Implementation-Vendor-Id: jovany-saas
 Build-Jdk: 1.8.0_161
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/jovany-dependencies/jovany-boot-dependencies/jovany

@@ -2,6 +2,7 @@ package cn.jovanyfreamwork.cloud.saas.data;
 
 import java.util.Set;
 
+import javax.persistence.Column;
 import javax.persistence.EmbeddedId;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -14,7 +15,7 @@ public class Scene {
 		super();
 		this.id = id;
 	}
-	
+
 	public Scene(String id) {
 		super();
 		this.id = new SceneID(id);
@@ -26,6 +27,9 @@ public class Scene {
 
 	@EmbeddedId
 	private SceneID id;
+
+	@Column(length = 100)
+	private String details;
 
 	@OneToMany(fetch = FetchType.EAGER, mappedBy = "id.scene")
 	private Set<Scope> scopes;
@@ -77,6 +81,14 @@ public class Scene {
 		} else if (!id.equals(other.id))
 			return false;
 		return true;
+	}
+
+	public String getDetails() {
+		return details;
+	}
+
+	public void setDetails(String details) {
+		this.details = details;
 	}
 
 }
