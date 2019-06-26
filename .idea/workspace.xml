@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c264cc4-9dbf-43b3-a1be-f2c8d4050161" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/EnableSaaSOauthServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/core/AppTenant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/core/AppUserTenant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/core/ClientTenant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/core/CloudTenant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/core/CloudUserTenant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/core/UserTenant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/core/authority/GrantedAppAuthority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/core/authority/GrantedAppUserAuthority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/core/authority/GrantedClientAuthority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/core/authority/GrantedCloudAuthority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/core/authority/GrantedCloudUserAuthority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/core/authority/GrantedUserAuthority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/AppAuthority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/AppUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/AppUserAuthority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/AuthorizedGrantType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/ClientAuthority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/Cloud.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/CloudAuthority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/CloudUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/CloudUserAuthority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/DataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/Schema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/Scope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/Tenant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/UserAuthority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/AppRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/AppUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/ClientRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/CloudAppRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/CloudRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/DataSourceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/SchemaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/TenantRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/src/main/java/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/META-INF/maven/cn.jovanyfreamwork.cloud/jovany-cloud-starter.saasoauth/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/META-INF/maven/cn.jovanyfreamwork.cloud/jovany-cloud-starter.saasoauth/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/EnableSaaSOauthServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/core/AppTenant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/core/AppUserTenant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/core/ClientTenant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/core/CloudTenant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/core/CloudUserTenant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/core/UserTenant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/core/authority/GrantedAppAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/core/authority/GrantedAppUserAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/core/authority/GrantedClientAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/core/authority/GrantedCloudAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/core/authority/GrantedCloudUserAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/core/authority/GrantedUserAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/AppAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/AppUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/AppUserAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/AuthorizedGrantType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/ClientAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/Cloud.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/CloudAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/CloudUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/CloudUserAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/DataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/Schema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/Scope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/Tenant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/UserAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/AppRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/AppUserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/ClientRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/CloudAppRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/CloudRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/DataSourceRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/SchemaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/TenantRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starter.saasoauth/target/classes/cn/jovanyfreamwork/cloud/saasoauth/data/jpa/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-cloud-starters/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jovany-cloud-starters/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-saas-parent/jovany-cloud-starter-saasclient/target/classes/META-INF/maven/cn.jovanyfreamwork.cloud/jovany-cloud-starter-saasclient/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jovany-saas-parent/jovany-cloud-starter-saasclient/target/classes/META-INF/maven/cn.jovanyfreamwork.cloud/jovany-cloud-starter-saasclient/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-saas-parent/jovany-saas-resources/jovany-saas-resource-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jovany-saas-parent/jovany-saas-resources/jovany-saas-resource-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-saas-parent/jovany-saas-resources/jovany-saas-resource-client/target/classes/META-INF/maven/cn.jovanyfreamwork.cloud/jovany-saas-resource-client/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jovany-saas-parent/jovany-saas-resources/jovany-saas-resource-client/target/classes/META-INF/maven/cn.jovanyfreamwork.cloud/jovany-saas-resource-client/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-saas-parent/jovany-saas-resources/jovany-saas-resource-client/target/classes/META-INF/maven/cn.jovanyfreamwork.cloud/jovany-saas-resource-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jovany-saas-parent/jovany-saas-resources/jovany-saas-resource-client/target/classes/META-INF/maven/cn.jovanyfreamwork.cloud/jovany-saas-resource-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jovany-saas-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jovany-saas-parent/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/jovany-cloud-starters/target/" />
+    <ignored path="$PROJECT_DIR$/jovany-saas-parent/jovany-cloud-starter-saasclient/target/" />
+    <ignored path="$PROJECT_DIR$/jovany-saas-parent/jovany-saas-resources/target/" />
+    <ignored path="$PROJECT_DIR$/jovany-saas-parent/jovany-cloud-starter-saasoauth/target/" />
+    <ignored path="$PROJECT_DIR$/jovany-saas-parent/target/" />
+    <ignored path="$PROJECT_DIR$/jovany-saas-parent/jovany-saas-resources/jovany-saas-resource-client/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jovany-boot-dependencies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jovany-boot-dependencies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jovany-boot-dependencies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jovany-boot-dependencies" type="462c0819:PsiDirectoryNode" />
+              <item name="jovany-cloud-starters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jovany-boot-dependencies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jovany-boot-dependencies" type="462c0819:PsiDirectoryNode" />
+              <item name="jovany-cloud-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="jovany-cloud-starter-saasoauth" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c264cc4-9dbf-43b3-a1be-f2c8d4050161" name="Default Changelist" comment="" />
+      <created>1560407611124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560407611124</updated>
+      <workItem from="1560407612693" duration="43000" />
+      <workItem from="1560407730396" duration="133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="176000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23667206" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.329927" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

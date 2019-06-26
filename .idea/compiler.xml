@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jovany-cloud-starter-saasclient" />
+        <module name="jovany-cloud-starter-saasoauth" />
+        <module name="jovany-saas-resource-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jovany-boot-dependencies" target="1.5" />
+      <module name="jovany-cloud-starter-saasclient" target="1.5" />
+      <module name="jovany-cloud-starter-saasoauth" target="1.5" />
+      <module name="jovany-cloud-starters" target="1.5" />
+      <module name="jovany-saas-parent" target="1.5" />
+      <module name="jovany-saas-resource-client" target="1.5" />
+      <module name="jovany-saas-resources" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

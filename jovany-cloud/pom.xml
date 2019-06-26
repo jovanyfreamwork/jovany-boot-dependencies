@@ -8,20 +8,29 @@
 		<version>1.0.0</version>
 	</parent>
 	<groupId>cn.jovanyfreamwork.cloud</groupId>
-	<artifactId>jovany-cloud-starters</artifactId>
+	<artifactId>jovany-cloud</artifactId>
 	<packaging>pom</packaging>
 
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
+				<groupId>org.springframework.cloud</groupId>
+				<artifactId>spring-cloud-dependencies</artifactId>
+				<version>Greenwich.SR1</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+			<dependency>
 				<groupId>cn.jovanyfreamwork.cloud</groupId>
-				<artifactId>jovany-cloud-starter-filestore</artifactId>
+				<artifactId>jovany-cloud-starter-oauth2</artifactId>
 				<version>1.0.0</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
 
 	<modules>
-		<module>jovany-cloud-starter-filestore</module>
+		<module>jovany-cloud-starter-oauth2</module>
+		<module>jovany-cloud-oauth2-service</module>
+		<module>jovany-cloud-starter-oauth2-client</module>
 	</modules>
 </project>

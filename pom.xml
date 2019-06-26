@@ -42,5 +42,6 @@
 	<modules>
 		<module>jovany-saas-parent</module>
 		<module>jovany-cloud-starters</module>
+		<module>jovany-boot-starter-oauth2</module>
 	</modules>
 </project>

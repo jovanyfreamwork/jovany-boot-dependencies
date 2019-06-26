@@ -1,0 +1,20 @@
+spring:
+    application:
+        name: filestore-server
+    jackson:
+        date-format: yyyy-MM-dd HH:mm:ss
+        time-zone: GMT+8
+    servlet:
+        multipart:
+            max-file-size: 1000MB
+            max-request-size: 1000MB
+store:
+    file:
+        download-uri: http://localhost
+    path:
+        upload: /usr/local/var/upload
+        download: /usr/local/var/www/
+command:
+    path:
+        ffmpeg: /usr/local/Cellar/ffmpeg/4.1.1/bin/ffmpeg
+        openssl: /usr/bin/openssl

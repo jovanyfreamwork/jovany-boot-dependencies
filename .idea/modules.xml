@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jovany-boot-dependencies.iml" filepath="$PROJECT_DIR$/jovany-boot-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jovany-saas-parent/jovany-cloud-starter-saasclient/jovany-cloud-starter-saasclient.iml" filepath="$PROJECT_DIR$/jovany-saas-parent/jovany-cloud-starter-saasclient/jovany-cloud-starter-saasclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jovany-saas-parent/jovany-cloud-starter-saasoauth/jovany-cloud-starter-saasoauth.iml" filepath="$PROJECT_DIR$/jovany-saas-parent/jovany-cloud-starter-saasoauth/jovany-cloud-starter-saasoauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starters.iml" filepath="$PROJECT_DIR$/jovany-cloud-starters/jovany-cloud-starters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jovany-saas-parent/jovany-saas-parent.iml" filepath="$PROJECT_DIR$/jovany-saas-parent/jovany-saas-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jovany-saas-parent/jovany-saas-resources/jovany-saas-resource-client/jovany-saas-resource-client.iml" filepath="$PROJECT_DIR$/jovany-saas-parent/jovany-saas-resources/jovany-saas-resource-client/jovany-saas-resource-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jovany-saas-parent/jovany-saas-resources/jovany-saas-resources.iml" filepath="$PROJECT_DIR$/jovany-saas-parent/jovany-saas-resources/jovany-saas-resources.iml" />
+    </modules>
+  </component>
+</project>
