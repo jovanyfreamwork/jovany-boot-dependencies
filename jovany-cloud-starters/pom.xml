@@ -23,5 +23,6 @@
 
 	<modules>
 		<module>jovany-cloud-starter-filestore</module>
+		<module>jovany-cloud-starter-fileupload</module>
 	</modules>
 </project>
